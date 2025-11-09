@@ -1,0 +1,17 @@
+{
+  "name": "4cavco",
+  "version": "1.0.0",
+  "description": "API de reservas de hoteles",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "reservas",
+    "hotel",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
